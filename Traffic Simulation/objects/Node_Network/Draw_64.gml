@@ -1,0 +1,1 @@
+draw_text(20, 20, "Lane Node Count: " + string(instance_number(Lane_Node)));
